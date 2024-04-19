@@ -75,3 +75,8 @@
   border-radius: 7%;
   margin-right: 5px;
 }
+
+.navbar :focus {
+  background-color: darkgreen;
+  color: whitesmoke;
+}
